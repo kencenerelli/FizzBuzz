@@ -11,10 +11,10 @@ http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html
 1.0.0
 
 ## Technologies Used
-Visual Studio 2012
+Visual Studio 2012, .NET Framework 4.5, C# 5.0
 
 ## Quick Start
-Download the solution and open the sln file with Visual Studio 2012. Click the Generate button to run the sample.
+Download the solution and open the .sln file with Visual Studio 2012. Click the Generate button to run the sample.
 
 ## Author
 Ken Cenerelli
