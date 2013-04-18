@@ -16,7 +16,7 @@ Visual Studio 2012
 ## Quick Start
 Download the solution and open the sln file with Visual Studio 2012. Click the Generate button to run the sample.
 
-# Author
+## Author
 Ken Cenerelli
 
 + https://twitter.com/KenCenerelli
